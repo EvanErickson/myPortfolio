@@ -55,3 +55,8 @@ nav li:active{
 .grid-row{
     grid-template-rows: auto;
 }
+
+form {
+    max-width: 80%;
+    margin: auto;
+}
