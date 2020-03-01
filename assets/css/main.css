@@ -3325,3 +3325,7 @@ input, select, textarea {
 	-ms-transform: rotate(0deg);
 	-o-transform: rotate(0deg);
 }
+
+.fab.fa-linkedin{
+	font-size: 1.25em;
+}
